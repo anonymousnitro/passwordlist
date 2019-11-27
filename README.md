@@ -1,5 +1,5 @@
 # passwordlist
-10million Best And Common Password Wordlist... (66mb)
+1Billion Best And Common Password Wordlist... (66mb)
 
 
 There Are 4 Compressed Files...
