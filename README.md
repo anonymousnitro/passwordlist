@@ -1,6 +1,7 @@
 # passwordlist
 1Billion Best And Common Password Wordlist... (66mb)
 
+These wordlist contains approximately 1Billon password combination between 8-12 character length...
 
 There Are 4 Compressed Files...
 
